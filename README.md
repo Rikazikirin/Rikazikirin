@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on my idol
-- 📫 How to reach me ... I think soon
+- 📫 How to reach me ....
 
 <!---
 Rikazikirin/Rikazikirin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
